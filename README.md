@@ -1,3 +1,3 @@
 # Power-outage-prediction-competition
 
-### Purpose
+## Purpose
