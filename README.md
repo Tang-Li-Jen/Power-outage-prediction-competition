@@ -3,8 +3,8 @@
 ## Purpose
 According to typhoon-caused power outages data from 2014 to 2016, predict the numbers of power outages caused by **MEGI(2016)** and **NESAT&HAITANG(2017)** typhoon.
 ## Dataset
-![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/train.png)
-![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/test.png)
+![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/images/train.PNG)
+![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/images/test.PNG)
 ## Measure
 Accuracy based on **Morisita-Horn similarity index**
 ## Result
