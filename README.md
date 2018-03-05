@@ -3,9 +3,9 @@
 ## Purpose
 According to typhoon-caused power outages data from 2014 to 2016, predict the numbers of power outages caused by **MEGI(2016)** and **NESAT&HAITANG(2017)** typhoon.
 ## Dataset
-Train dataset includes 8 historic typhoons(2014-2016) and their damages on power outages.  
+Train dataset includes 8 historic typhoons(2014-2016) and their damages(power outages) on each Taiwan Village.  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/train.PNG)  
-We aim to predict the power outages for **MEGI** and **NESAT&HAITANG** typhoon in test dataset (initialized with 0 values).  
+We aim to predict the power outages caused by **MEGI** and **NESAT&HAITANG** typhoon in test dataset(initialized with 0 values).  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/test.PNG)
 ## Measure
 Accuracy based on **Morisita-Horn similarity index**
