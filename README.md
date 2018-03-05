@@ -10,6 +10,11 @@ We aim to predict the power outages for MEGI and NESAT&HAITANG typhoon in test d
 ## Measure
 Accuracy based on **Morisita-Horn similarity index**
 ## Method
+1. Typhoon 
+2. Utility Pole
+3. Wind
+4. Rainfall
+5. Typhoon Track
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
