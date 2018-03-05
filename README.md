@@ -7,7 +7,7 @@ According to typhoon-caused power outages data from 2014 to 2016, predict the nu
 Accuracy based on **Morisita-Horn similarity index**
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
-![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/images/rank.png)
+![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
 
 ## Improvement
 ## Reference
