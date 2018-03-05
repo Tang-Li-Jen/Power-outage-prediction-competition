@@ -10,5 +10,6 @@ We are team **下次再加油** and got 6th prize in leaderboard
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
 
 ## Improvement
+We should do more effort on data imputation, especially for the number of electric poles in Taiwan villages. 
 ## Reference
 1. DSP Competition Website:https://dc.dsp.im/main/content/Typhoon-caused-Power-Outages-Prediction-Challenge
