@@ -1,6 +1,6 @@
 # Power-outage-prediction-competition
-For a long time, Taiwan often suffers from typhoons which cause lots of power outages. For instance, **typhoon SOUDELOR(2015/08)** bring about **4500 thousands** power outages in Taiwan. In light of this, Taipower 
-The competition was held by **DSP** and **Taipower** from 2017/09/20 to 2017/11/20. In light of the serious damages from typhoons, they wish to help Taiwan build risilient cities
+For a long time, Taiwan often suffers from typhoons which cause lots of power outages. For instance, **typhoon SOUDELOR(2015/08)** bring about **4500 thousands** power outages in Taiwan. In light of this, Building **resilient cities** becomes more and more important.    
+The competition was held by **DSP** and **Taipower**. 
 ## Purpose
 According to typhoon-caused power outages data from 2014 to 2016, predict the numbers of power outages caused by **MEGI(2016)** and **NESAT&HAITANG(2017)** typhoon.
 ## Dataset
