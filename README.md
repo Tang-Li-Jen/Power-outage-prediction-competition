@@ -17,11 +17,11 @@ Accuracy based on **Morisita-Horn similarity index**
 ### Data Collecting
 Due to lack of explantory variables, we had to collect features from government open data. We thought the causes of power outages are mainly from the falling down of utility poles. Therefore, not only the typhoon intensity itself, we also collect data which strongly related to this cause. All the open data we used are listed in reference, but we just mentioned the **key datasets and features** below. 
 ### Feature Engineering
-1. **Typhoon Track**
+1. **Typhoon Track**  
 The intensity of typhoon changed along time.So we created important feature to explain the influence of typhoon on each village from physics insight. The metric is calculated by "maximum typhoon intensity adjusted by square distance between village and typhoon".
-2. **Wind**
+2. **Wind**  
 Considering that strong wind could blow down the utility poles, we collected hourly wind direction and speed data from regional observation stations for each typhoons. We created max, min, mean, etc. attributes to explain the influence of wind on villages from hour,day to whole typhoon period level.
-3. **Rainfall**
+3. **Rainfall**  
 Considering that heavy rain might damage the utility poles, we collected hourly accumulated rainfall data from regional observation stations for each typhoons.We created max, min, mean, etc. attributes to explain the influence of rainfall on villages from hour,day to whole typhoon period level.
 4. **Utility Pole**
 ### Modeling
