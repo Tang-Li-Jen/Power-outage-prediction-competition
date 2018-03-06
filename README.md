@@ -15,11 +15,11 @@ Closed on: Nov 20 2017
 Accuracy based on **Morisita-Horn similarity index**
 ## Method
 We just show the key datasets and features below:
-1. Typhoon 
-2. Utility Pole
-3. Wind
-4. Rainfall
-5. Typhoon Track
+1. Typhoon
+2. Wind
+3. Rainfall
+4. Typhoon Track
+5. Utility Pole
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
@@ -30,3 +30,11 @@ We are team **下次再加油** and got 6th prize in leaderboard
 3. In feature engineering steps, we can create more features to represent their distributions like std, median, etc.
 ## Reference
 1. DSP Competition Website:https://dc.dsp.im/main/content/Typhoon-caused-Power-Outages-Prediction-Challenge
+2. Typhoon Alert: http://rdc28.cwb.gov.tw/TDB/ntdb/pageControl/ty_warning
+3. Typhoon Wind: http://rdc28.cwb.gov.tw/TDB/ntdb/pageControl/windsearch
+4. Typhoon Rainfall: http://rdc28.cwb.gov.tw/TDB/ntdb/pageControl/rain
+5. Typhoon Track: http://rdc28.cwb.gov.tw/TDB/ctrl_advanced_search
+6. Utility Pole: https://data.gov.tw/dataset/33305
+7. Village Population Density: https://data.gov.tw/dataset/8410
+8. 
+
