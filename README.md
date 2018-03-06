@@ -25,6 +25,8 @@ Considering that strong wind could blow down the utility poles, we collected hou
 Considering that heavy rain might damage the utility poles, we collected hourly accumulated rainfall data from regional observation stations for each typhoons. Not only max, min, mean, etc. distribution-related attributes, we also created features based on Center Weather Bureau's rainfall standard to explain the influence of rainfall on villages from hour,day to whole typhoon period level.
 4. **Utility Pole**  
 We considered the numbers of utility poles and their types are important. The former implicitly indicated the potential power outages number and the latter revealed what kinds of utility pole are vulnerable. Therefore, we created total utility pole numbers and the numbers of each types to explain the influence of utility poles.
+5. **Population Density**  
+We thought population density and population are highly correlated to utility poles and power outages. So we use population density to explain between-villages difference.
 ### Modeling
 Power outages didn't happen all the times in villages, so we had to deal with this imbalance data problem carefully. We used **random forest regressor** with **stratified cross-validation** method to balance the data(the percentage of villages suffering power outages) in each validation set and determine the best hyper-parameters. 
 ## Result
