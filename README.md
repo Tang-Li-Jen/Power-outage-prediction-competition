@@ -24,7 +24,7 @@ The intensity of typhoon changed along time.So we created important feature to e
 3. **Rainfall**
 4. **Utility Pole**
 ### Modeling
-Power outages didn't happen all the times in villages, so we had to deal with this imbalance data problem carefully. We used **stratified cross-validation** method to balance the data(the percentage of villages suffering power outages) in each validation set.
+Power outages didn't happen all the times in villages, so we had to deal with this imbalance data problem carefully. We used **random forest regressor** with **stratified cross-validation** method to balance the data(the percentage of villages suffering power outages) in each validation set and learn the hyper-parameter well. 
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
