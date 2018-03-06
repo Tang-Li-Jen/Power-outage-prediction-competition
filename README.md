@@ -14,6 +14,7 @@ Closed on: Nov 20 2017
 ## Measure
 Accuracy based on **Morisita-Horn similarity index**
 ## Method
+We just show the key datasets and features below:
 1. Typhoon 
 2. Utility Pole
 3. Wind
