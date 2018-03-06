@@ -48,3 +48,5 @@ We are team **下次再加油** and got 6th prize in leaderboard
 7. Village Population Density: https://data.gov.tw/dataset/8410
 8. Power Usage Percentage by Household, Industries, etc.: https://data.gov.tw/dataset/38959
 9. Power Usage by Villages: https://data.gov.tw/dataset/14135
+10. Landslide alert: https://246.swcb.gov.tw/OpenData.aspx
+11. Lighting: https://data.gov.tw/dataset/9712
