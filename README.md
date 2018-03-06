@@ -14,12 +14,13 @@ Closed on: Nov 20 2017
 ## Measure
 Accuracy based on **Morisita-Horn similarity index**
 ## Method
-We just show the key datasets and features below:
-1. Typhoon
+### Feature Engineering
+The competition encouraged us to collect features from government open data. All the open data we used are in reference. We just show the key datasets and features below:
+1. Typhoon Track
 2. Wind
 3. Rainfall
-4. Typhoon Track
-5. Utility Pole
+4. Utility Pole
+### Modeling
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/rank.PNG)
