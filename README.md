@@ -27,7 +27,7 @@ We are team **下次再加油** and got 6th prize in leaderboard
 ## Improvement
 1. We should do more effort on **data imputation**, especially for the numbers of utility poles in Taiwan villages. Because of lack of utility pole data in few villages, We can consider using similar grid imputation like KNN to impute value based on demographic or other features.
 2. We found large performance difference between random forest and xgboost model, which indicated **variance-bias trade-off**. We should fine-tune two kind of models to make stacking model outperform any sigle one.
-3. We used rainfall and wind data from 33 regional observation stations. Maybe adding extra 510 automated observation stations can make the model fit better.
+3. We used rainfall and wind data from 33 regional observation stations. Maybe adding extra **510 automated observation stations** can make the model fit better.
 ## Reference
 1. DSP Competition Website:https://dc.dsp.im/main/content/Typhoon-caused-Power-Outages-Prediction-Challenge
 2. Typhoon Alert: http://rdc28.cwb.gov.tw/TDB/ntdb/pageControl/ty_warning
