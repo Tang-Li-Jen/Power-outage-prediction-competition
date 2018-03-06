@@ -20,8 +20,9 @@ Due to lack of explantory variables, we had to collect features from government 
 1. **Typhoon Track**
 The intensity of typhoon changed along time.So we created important feature to explain the influence of typhoon on each village from physics insight. The metric is calculated by "maximum typhoon intensity adjusted by square distance between village and typhoon".
 2. **Wind**
-We consider strong wind could blow down the utility poles. we collected hourly wind direction and speed data from observation stations
+Considering that strong wind could blow down the utility poles, we collected hourly wind direction and speed data from regional observation stations for each typhoons. We created max, min, mean, etc. attributes to explain the influence of wind on villages from hour,day to whole typhoon period level.
 3. **Rainfall**
+Considering that heavy rain might damage the utility poles, we collected hourly accumulated rainfall data from regional observation stations for each typhoons.We created max, min, mean, etc. attributes to explain the influence of rainfall on villages from hour,day to whole typhoon period level.
 4. **Utility Pole**
 ### Modeling
 Power outages didn't happen all the times in villages, so we had to deal with this imbalance data problem carefully. We used **random forest regressor** with **stratified cross-validation** method to balance the data(the percentage of villages suffering power outages) in each validation set and determine the best hyper-parameters. 
