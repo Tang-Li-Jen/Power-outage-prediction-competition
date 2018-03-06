@@ -15,7 +15,7 @@ Closed on: Nov 20 2017
 Accuracy based on **Morisita-Horn similarity index**
 ## Method
 ### Feature Engineering
-Due to lack of explantory variables, we had to collect features from government open data. All the open data we used are listed in reference. We just show the key datasets and features below:
+Due to lack of explantory variables, we had to collect features from government open data. All the open data we used are listed in reference. We just show the **key datasets and features** below:
 1. Typhoon Track
 
 2. Wind
