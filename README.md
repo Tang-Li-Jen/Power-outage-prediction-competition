@@ -16,11 +16,11 @@ Accuracy based on **Morisita-Horn similarity index**
 ## Method
 ### Feature Engineering
 Due to lack of explantory variables, we had to collect features from government open data. All the open data we used are listed in reference. We just show the **key datasets and features** below:
-1. Typhoon Track
-
-2. Wind
-3. Rainfall
-4. Utility Pole
+1. **Typhoon Track**
+The intensity of typhoon changed along time.So we created important feature to explain the influence of typhoon on each village from physics insight. The metric is calculated by maximum typhoon intensity adjusted by square distance between village and typhoon.
+2. **Wind**
+3. **Rainfall**
+4. **Utility Pole**
 ### Modeling
 ## Result
 We are team **下次再加油** and got 6th prize in leaderboard  
