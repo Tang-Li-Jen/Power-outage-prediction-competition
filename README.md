@@ -1,4 +1,5 @@
 # Power-outage-prediction-competition
+![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/power_outage_wallpaper.PNG)
 The competition was held by **DSP** and **Taipower** in Taiwan. I teamed up with **Lawrencesiao**. He is my best teammate and mentor in data science. He helped me do feature engineering and fine-tune predictive model to reach the top rank. If you have any interest, you can see his github here(https://github.com/lawrencesiao)
 ## Problem Statement
 For a long time, Taiwan often suffers from typhoons which cause lots of power outages. For instance, **SOUDELOR(2015/08)**, the most harmful typhoon, bring about **4500 thousands** power outages in Taiwan. In light of this, Building **resilient cities** to prevent future damages becomes more and more important. Therefore, The competition hoped contestants can make accurate and applicable predictive models to help Taiwan get well-prepared in advance.  
